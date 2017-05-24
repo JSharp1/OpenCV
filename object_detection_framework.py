@@ -1,4 +1,4 @@
-# https://gurus.pyimagesearch.com/lesson-sample-preparing-your-experiment-and-training-data/?email=jaysharp21@googlemail.com
+# https://gurus.pyimagesearch.com/lesson-sample-preparing-your-experiment-and-training-data/?
 # project structure of our object detection framework
 # |--- pyimagesearch
 # |    |---- __init__.py
